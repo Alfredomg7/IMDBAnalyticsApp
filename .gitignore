@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+.ptyest_cache/
+*.py[cod]
+
+# Environment variables file
+venv/
+.env
+.env.example
+
+
+# Log files
+*.log
