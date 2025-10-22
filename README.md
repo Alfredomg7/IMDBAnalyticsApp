@@ -1,7 +1,9 @@
 # IMDb Analytics App
 
-IMDb Analytics App is an interactive web dashboard for exploring and analyzing IMDb movie data. Find insights on movie ratings, genres, runtimes, and trends over the years through dynamic visualizations and filters.
+IMDb Analytics App is an interactive web dashboard for exploring and analyzing IMDb movie data. Discover insights on movie ratings, genres, runtimes, and trends over the years through dynamic visualizations and filters. Data is fetched from the BigQuery dataset prepared using the [IMDBMoviesETL](https://github.com/Alfredomg7/IMDBMoviesETL) data pipeline.
 
+## Preview
+![IMDb Analytics App Preview](preview.png)
 ## Features
 
 - **Advanced filters:** Filter by release year, genres, runtime, and rating.
@@ -72,3 +74,5 @@ IMDb Analytics App is an interactive web dashboard for exploring and analyzing I
 - [Polars](https://www.pola.rs/) for fast and efficient data processing.
 
 ---
+
+For questions, open an issue or contact [alfredomg4000@gmail.com](mailto:alfredomg4000@gmail.com).
